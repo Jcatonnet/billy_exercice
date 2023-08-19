@@ -37,7 +37,3 @@ Example: /api/events?saleStartDate=01/01/2023
 
 PUT /api/events/:id: Update an event's details. Replace :id with the event's ID.
 You can use tools such as Postman to play with the API
-
-
-
-
